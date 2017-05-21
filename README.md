@@ -1,2 +1,2 @@
 # SpringBootAppTomcat
-Deploy Spring Boot App running on Tomcat to Azure
+Deploy Spring Boot App running on Tomcat to Azure [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
